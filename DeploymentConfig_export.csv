@@ -1,0 +1,7 @@
+project_id,deployment_name,deployment_type,environment,domain_name,deployment_url,status,build_logs,environment_variables,auto_deploy,deployment_cost,id,created_date,updated_date,created_by_id,created_by,is_sample
+"3","taskmanager-dev","heroku","development","","","building","Installing dependencies...
+Running build scripts...","","","2","688c189f1783ce84d723b46a","2025-08-01T01:30:07.122000","2025-08-01T01:30:07.122000","6885c272f73c63fb22cbbdd6","samuel.mcfarlane@pursuit.org",""
+"1","ecommerce-prod","vercel","production","","https://ecommerce-prod.vercel.app","deployed","Build completed successfully!
+Deployment live at: https://ecommerce-prod.vercel.app","","true","1","688c189f1783ce84d723b468","2025-08-01T01:30:07.122000","2025-08-01T01:30:07.122000","6885c272f73c63fb22cbbdd6","samuel.mcfarlane@pursuit.org",""
+"2","banking-app-staging","netlify","staging","","https://banking-app-staging.netlify.app","deployed","Flutter web build completed
+Deployment successful","","true","1","688c189f1783ce84d723b469","2025-08-01T01:30:07.122000","2025-08-01T01:30:07.122000","6885c272f73c63fb22cbbdd6","samuel.mcfarlane@pursuit.org",""
