@@ -1,0 +1,13 @@
+model_name,metric_type,value,timestamp,project_id,id,created_date,updated_date,created_by_id,created_by,is_sample
+"codellama:7b-instruct","accuracy","94","2024-01-15T12:00:00Z","proj_2","6885c300b56a4923e2dce7ed","2025-07-27T06:11:12.689000","2025-07-27T06:11:12.689000","6885c272f73c63fb22cbbdd6","samuel.mcfarlane@pursuit.org",""
+"codellama:7b-instruct","response_time","156","2024-01-15T12:00:00Z","proj_2","6885c300b56a4923e2dce7ea","2025-07-27T06:11:12.689000","2025-07-27T06:11:12.689000","6885c272f73c63fb22cbbdd6","samuel.mcfarlane@pursuit.org",""
+"qwen2.5-coder:1.5b","response_time","45","2024-01-15T12:00:00Z","proj_3","6885c300b56a4923e2dce7eb","2025-07-27T06:11:12.689000","2025-07-27T06:11:12.689000","6885c272f73c63fb22cbbdd6","samuel.mcfarlane@pursuit.org",""
+"llama3.1:8b","accuracy","92","2024-01-15T12:00:00Z","proj_1","6885c300b56a4923e2dce7ec","2025-07-27T06:11:12.689000","2025-07-27T06:11:12.689000","6885c272f73c63fb22cbbdd6","samuel.mcfarlane@pursuit.org",""
+"llama3.1:8b","response_time","185","2024-01-15T12:00:00Z","proj_1","6885c300b56a4923e2dce7e9","2025-07-27T06:11:12.689000","2025-07-27T06:11:12.689000","6885c272f73c63fb22cbbdd6","samuel.mcfarlane@pursuit.org",""
+"codellama:7b-instruct","response_time","156","2024-01-15T12:00:00Z","1","68864661f90714e91be39c1e","2025-07-27T15:31:45.485000","2025-07-27T15:31:45.485000","6885c272f73c63fb22cbbdd6","samuel.mcfarlane@pursuit.org",""
+"qwen2.5-coder:1.5b","response_time","45","2024-01-15T12:00:00Z","1","68864661f90714e91be39c1f","2025-07-27T15:31:45.485000","2025-07-27T15:31:45.485000","6885c272f73c63fb22cbbdd6","samuel.mcfarlane@pursuit.org",""
+"nomic-embed-text","response_time","32","2024-01-15T12:00:00Z","1","68864661f90714e91be39c20","2025-07-27T15:31:45.485000","2025-07-27T15:31:45.485000","6885c272f73c63fb22cbbdd6","samuel.mcfarlane@pursuit.org",""
+"llama3.1:8b","response_time","185","2024-01-15T12:00:00Z","1","68864661f90714e91be39c1d","2025-07-27T15:31:45.485000","2025-07-27T15:31:45.485000","6885c272f73c63fb22cbbdd6","samuel.mcfarlane@pursuit.org",""
+"qwen2.5-coder:1.5b","suggestions_generated","342","2024-12-19T10:30:00Z","ml-dashboard","688670d8f90714e91be3b4c5","2025-07-27T18:32:56.550000","2025-07-27T18:32:56.550000","6885c272f73c63fb22cbbdd6","samuel.mcfarlane@pursuit.org",""
+"codellama:7b-instruct","accuracy","0.94","2024-12-19T10:30:00Z","ai-ecommerce","688670d8f90714e91be3b4c4","2025-07-27T18:32:56.550000","2025-07-27T18:32:56.550000","6885c272f73c63fb22cbbdd6","samuel.mcfarlane@pursuit.org",""
+"llama3.1:8b","response_time","245","2024-12-19T10:30:00Z","ai-ecommerce","688670d8f90714e91be3b4c3","2025-07-27T18:32:56.550000","2025-07-27T18:32:56.550000","6885c272f73c63fb22cbbdd6","samuel.mcfarlane@pursuit.org",""
